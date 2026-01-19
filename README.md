@@ -1,0 +1,1 @@
+# Gas-Generator-of-Turbofan-with-Take-off-Thrust-239kN-
