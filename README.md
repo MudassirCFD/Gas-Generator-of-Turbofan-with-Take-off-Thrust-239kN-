@@ -8,7 +8,7 @@ Aircraft Engines Design Department
 **Author:** Mudassir Saiyed Mohammad  
 **Supervisor:** Professor Sergiy Bezugly  
 **Thesis Code:** XAI.203.240F.22S.134.EN  
-**Year:** 2024
+**Year:** 2022
 
 ## 📋 Project Overview
 Complete design and analysis of a three-shaft turbofan engine gas generator for heavy cargo aircraft applications. The project encompasses thermodynamic cycle optimization, mechanical design, structural verification, and manufacturing planning.
