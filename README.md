@@ -85,7 +85,7 @@ Complete design and analysis of a three-shaft turbofan engine gas generator for 
 ## 📊 Design Visualization
 
 ### Gas Generator Assembly
-![Gas Generator 3D View](04-Results-Figures/Gas_Generator_3D_View.png)
+![Gas Generator 2D Drawing](04-Results-Figures/Gas_Generator_3D_View.png)
 
 ### Compressor Blade Design
 ![Compressor Blade](04-Results-Figures/Compressor_Blade_Isometric.png)
