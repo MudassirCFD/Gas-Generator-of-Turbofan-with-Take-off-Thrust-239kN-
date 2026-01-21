@@ -10,10 +10,10 @@ Aircraft Engines Design Department
 **Thesis Code:** XAI.203.240F.22S.134.EN  
 **Year:** 2022
 
-## 📋 Project Overview
+## Project Overview
 Complete design and analysis of a three-shaft turbofan engine gas generator for heavy cargo aircraft applications. The project encompasses thermodynamic cycle optimization, mechanical design, structural verification, and manufacturing planning.
 
-## 🎯 Technical Specifications
+## Technical Specifications
 - **Take-off thrust:** 239 kN (vs. prototype D-18T: 230 kN)
 - **Bypass ratio:** 5.60
 - **Compressor pressure ratio:** 26.2
@@ -22,12 +22,12 @@ Complete design and analysis of a three-shaft turbofan engine gas generator for 
 - **Specific thrust:** 312.38 N·s/kg
 - **Specific fuel consumption:** 0.037686 kg/(N·h)
 
-## 📁 Repository Contents
+## Repository Contents
 
-### 📄 01-Thesis-Document/
+###  01-Thesis-Document/
 - `Mudassir_Saiyed_240F.pdf` - Complete bachelor thesis with all calculations
 
-### 🖼️ 02-Technical-Drawings/
+### 02-Technical-Drawings/
 - `BP Engine.PDF` - Engine arrangement and parameter distribution
 - `Gas generator 2.PDF` - Detailed gas generator schematic
 - `SolidWorks/` - 3D CAD models and drawings
@@ -35,14 +35,14 @@ Complete design and analysis of a three-shaft turbofan engine gas generator for 
   - Compressor blade design (VT-3 titanium)
   - Engineering drawings with dimensions
 
-### 📊 03-Presentations/
+### 03-Presentations/
 - `Defense_Presentation.pptx` - Final project defense presentation
 
-### 📈 04-Results-Figures/
+### 04-Results-Figures/
 - Exported images from CAD models
 - Key result visualizations
 
-## 🔬 Key Technical Achievements
+## Key Technical Achievements
 
 ### Thermodynamic Performance
 - **3.9% improvement** in specific thrust over D-18T prototype
@@ -60,7 +60,7 @@ Complete design and analysis of a three-shaft turbofan engine gas generator for 
 - Tool selection for turning, drilling, and milling operations
 - Process planning for aircraft gear shaft manufacturing
 
-## 🛠️ Design Methodology
+## Design Methodology
 
 1. **Theoretical Analysis**
    - Thermo-gas-dynamic cycle calculations
@@ -82,7 +82,7 @@ Complete design and analysis of a three-shaft turbofan engine gas generator for 
    - Tool geometry optimization
    - Process sequence development
 
-## 📊 Design Visualization
+## Design Visualization
 
 ### Gas Generator Assembly
 ![Gas Generator 2D Drawing](04-Results-Figures/Gas_Generator_3D_View.png)
@@ -93,7 +93,7 @@ Complete design and analysis of a three-shaft turbofan engine gas generator for 
 ### Parameter Distribution
 ![Engine Parameters](02-Technical-Drawings/BP%20Engine.PDF)
 
-## 📚 Academic Context
+## Academic Context
 Submitted in partial fulfillment of requirements for the Bachelor of Science degree in Mechanical Engineering, specialization in Aerospace Engineering at the National Aerospace University "Kharkiv Aviation Institute".
 
 ## 👨‍🏫 Supervision
