@@ -96,13 +96,13 @@ Complete design and analysis of a three-shaft turbofan engine gas generator for 
 ## Academic Context
 Submitted in partial fulfillment of requirements for the Bachelor of Science degree in Mechanical Engineering, specialization in Aerospace Engineering at the National Aerospace University "Kharkiv Aviation Institute".
 
-## 👨‍🏫 Supervision
+## Supervision
 - **Academic Supervisor:** Professor Sergiy Bezugly
 - **Department Head:** Professor Yepifanov S.V.
 - **Review Committee:** Professor Fesenko K.V., Professor Degterov O.D.
 
-## 📄 License
+## License
 Academic work. All rights reserved by the author and National Aerospace University "Kharkiv Aviation Institute". Shared for academic reference and portfolio purposes.
 
-## 📬 Contact
+## Contact
 For academic inquiries or access to native CAD files, please contact the author.
